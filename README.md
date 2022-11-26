@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Bahman Pournazari
 - 👀 I’m interested in Python,Django and web developing
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Advanced Django items
+- 📫 https://t.me/bahmanpnn
+      https://www.linkedin.com/in/bahman-pournazariii
+      
 
 <!---
 bahmanpnn/bahmanpnn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
