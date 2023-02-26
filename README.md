@@ -2,7 +2,8 @@
 - 👀 I’m interested in Python,Django and web developing
 - 🌱 I’m currently learning Advanced Django items
 - 📫 https://t.me/bahmanpnn
-      https://www.linkedin.com/in/bahman-pournazariii
+- https://www.linkedin.com/in/bahman-pournazariii
+- bahmanpn.pythonanywhere.com
       
 
 <!---
