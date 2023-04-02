@@ -2,7 +2,7 @@
  
  ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Mostafa+Fazli;MosFazli;a+Software+Developer;UI%2FUX+Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Bahman+Pournazari;bahmanpnn;a+Software+Developer)](https://git.io/typing-svg)
  
  </div>
 
@@ -17,7 +17,7 @@ Currently I'm learning and practicing courses and algorithms,
 <br>
 <h2>Social Networks</h2>
 
-[![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![Instagram][3.2]][3] [![Telegram][4.2]][4]
+[![LinkedIn][1.2]][1] [![Telegram][2.2]][2]
 
 [1.2]: https://s4.uupload.ir/files/linkedin_amwn.png
 [2.2]: https://s4.uupload.ir/files/telegram_q47u.png
