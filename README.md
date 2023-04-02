@@ -1,30 +1,31 @@
 <div align="center" >
- 
- ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
- 
+
+![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=032b5e&vCenter=true&width=600&height=70&lines=Hi+I'M+Bahman+Pournazari;a+Backend+Developer)](https://git.io/typing-svg)
- 
+
  </div>
 
- 
-
 ### :man_technologist: I'm Bahman Pournazari and I'm interested in Python,Django and web developing
-I’m currently learning Advanced Django items
 
-🌐 bahmanpn.pythonanywhere.com
+<h3>I’m currently learning Advanced Django items.I will be happy to get in touch and talk about fields that i work</h3>
 
-📫 bahmanpn@gmail.com
+🌐 <h4>bahmanpn.pythonanywhere.com</h4>
+
+📫 <h4>bahmanpn@gmail.com</h4>
 
 <img align='right' height='160' style="margin-right:20px" src='assets/zeig-infotech-seo-gif.gif' alt='Social Networks'>
 <br>
 <h2>Social Networks</h2>
 
-[![LinkedIn][1.2]][1] [![Telegram][2.2]][2] 
+[![LinkedIn][1.2]][1] [![Telegram][2.2]][2]
 
 [1.2]: https://s4.uupload.ir/files/linkedin_amwn.png
+
 [2.2]: https://s4.uupload.ir/files/telegram_q47u.png
 
 [1]: https://www.linkedin.com/in/bahman-pournazariii
+
 [2]: https://telegram.me/bahmanpnn
 
 <br>
@@ -37,7 +38,12 @@ I’m currently learning Advanced Django items
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,sqlite,postgres,mysql,git,github,html,css,bootstrap,js,jquery," />
+    <img src="https://skillicons.dev/icons?i=python,django,sqlite,postgres,mysql,git,github" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery" />
   </a>
 </p>
 
@@ -48,7 +54,7 @@ I’m currently learning Advanced Django items
   <summary><b>:gear: &nbsp;Git statistics</b></summary>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
- 
+
   <div align="center">
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=bahmanpnn&label=Profile%20views&color=fe428e&style=plastic" alt="bahmanpnn" /></p>
