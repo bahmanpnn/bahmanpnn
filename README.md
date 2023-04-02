@@ -16,7 +16,7 @@ I’m currently learning Advanced Django items
 <br>
 <h2>Social Networks</h2>
 
-[![LinkedIn][1.2]][1] [![Telegram][2.2]][2]
+[![LinkedIn][1.2]][1] [![Telegram][2.2]][2] [![Gmail][3.2]][3]
 
 [1.2]: https://s4.uupload.ir/files/linkedin_amwn.png
 [2.2]: https://s4.uupload.ir/files/telegram_q47u.png
@@ -51,14 +51,17 @@ I’m currently learning Advanced Django items
  
   <div align="center">
 
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=bahmanpnn&show_icons=true&theme=highcontrast" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahmanpnn&hide=html&layout=compact&theme=highcontrast" />
- 
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=bahmanpnn&label=Profile%20views&color=fe428e&style=plastic" alt="bahmanpnn" /></p>
 
-
- </div> 
- </details>
+</div> 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bahmanpnn&theme=radical&hide_border=true)<br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bahmanpnn&label=Profile%20views&color=fe428e&style=plastic" alt="bahmanpnn" /></p>
+</details>
+<div align="center">
+
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahmanpnn&hide=html&layout=compact&theme=highcontrast" />
+    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=bahmanpnn&show_icons=true&theme=highcontrast" />
+
+</div> 
+
