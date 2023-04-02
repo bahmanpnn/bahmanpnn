@@ -12,6 +12,7 @@
 I’m currently learning Advanced Django items
 
 🌐 bahmanpn.pythonanywhere.com
+
 📫 bahmanpn@gmail.com
 
 <img align='right' height='160' style="margin-right:20px" src='assets/zeig-infotech-seo-gif.gif' alt='Social Networks'>
@@ -36,7 +37,7 @@ I’m currently learning Advanced Django items
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,sqlite,postgres,mysql,git,github," />
+    <img src="https://skillicons.dev/icons?i=python,django,sqlite,postgres,mysql,git,github,html,css,bootstrap,js,jquery," />
   </a>
 </p>
 
@@ -52,9 +53,9 @@ I’m currently learning Advanced Django items
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=bahmanpnn&label=Profile%20views&color=fe428e&style=plastic" alt="bahmanpnn" /></p>
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=bahmanpnn&theme=radical&hide_border=true)<br/>
   </div> 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=bahmanpnn&theme=radical&hide_border=true)<br/>
 
 </details>
 <div align="center">
