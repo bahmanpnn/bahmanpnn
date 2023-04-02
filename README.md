@@ -56,8 +56,7 @@
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
   <div align="center">
-
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=bahmanpnn&label=Profile%20views&color=fe428e&style=plastic" alt="bahmanpnn" /></p>
+  
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bahmanpnn&theme=radical&hide_border=true)<br/>
   </div> 
