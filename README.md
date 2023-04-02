@@ -6,13 +6,13 @@
 
  </div>
 
-### :man_technologist: I'm Bahman Pournazari and I'm interested in Python,Django and web developing
+### :man_technologist: I'm Bahman Pournazari and interested in Python,Django and web developing
 
-<h3>I’m currently learning Advanced Django items.I will be happy to get in touch and talk about developing</h3>
+<h3>  I’m currently learning Advanced Django items.I will be happy to get in touch and talk about developing</h3>
 
-<h4>🌐 bahmanpn.pythonanywhere.com</h4>
+<h4>🌐bahmanpn.pythonanywhere.com</h4>
 
-<h4>📫 bahmanpn@gmail.com</h4>
+<h4>📫bahmanpn@gmail.com</h4>
 
 <img align='right' height='160' style="margin-right:20px" src='assets/zeig-infotech-seo-gif.gif' alt='Social Networks'>
 <br>
