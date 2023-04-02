@@ -11,21 +11,20 @@
 ### :man_technologist: I'm Bahman Pournazari and I'm interested in Python,Django and web developing
 I’m currently learning Advanced Django items
 
-<img align='right' height='160' style="margin-right:20px" src='assets/zeig-infotech-seo-gif.gif' alt='Social Networks'>
+🌐 bahmanpn.pythonanywhere.com
+📫 bahmanpn@gmail.com
 
+<img align='right' height='160' style="margin-right:20px" src='assets/zeig-infotech-seo-gif.gif' alt='Social Networks'>
 <br>
 <h2>Social Networks</h2>
 
-[![LinkedIn][1.2]][1] [![Telegram][2.2]][2] [![Gmail][3.2]][3]
+[![LinkedIn][1.2]][1] [![Telegram][2.2]][2] 
 
 [1.2]: https://s4.uupload.ir/files/linkedin_amwn.png
 [2.2]: https://s4.uupload.ir/files/telegram_q47u.png
-[3.2]: https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png
 
-[1]: https://www.linkedin.com/in/bahmanpnn/
+[1]: https://www.linkedin.com/in/bahman-pournazariii
 [2]: https://telegram.me/bahmanpnn
-[3]: https://bahmanpn@gmail.com
-
 
 <br>
 <br>
@@ -47,21 +46,21 @@ I’m currently learning Advanced Django items
 <details close="true">
   <summary><b>:gear: &nbsp;Git statistics</b></summary>
 
- ![](./profile-3d-contrib/profile-night-rainbow.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
  
   <div align="center">
 
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=bahmanpnn&label=Profile%20views&color=fe428e&style=plastic" alt="bahmanpnn" /></p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=bahmanpnn&label=Profile%20views&color=fe428e&style=plastic" alt="bahmanpnn" /></p>
 
-</div> 
+  </div> 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bahmanpnn&theme=radical&hide_border=true)<br/>
 
 </details>
 <div align="center">
 
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahmanpnn&hide=html&layout=compact&theme=highcontrast" />
-    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=bahmanpnn&show_icons=true&theme=highcontrast" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahmanpnn&hide=html&layout=compact&theme=highcontrast" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=bahmanpnn&show_icons=true&theme=highcontrast" />
 
 </div> 
 
