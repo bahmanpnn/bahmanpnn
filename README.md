@@ -10,9 +10,9 @@
 
 <h3>👀 I’m currently learning Advanced Django items.I will be happy to get in touch and talk about developing; specially fields that i am active in!</h3>
 
-<h4>🌐<a>http://bahmanpn.pythonanywhere.com</a></h4>
+🌐[my portfolio site](http://bahmanpn.pythonanywhere.com)
 
-<h4>📫bahmanpn@gmail.com</h4>
+<h4>📫 bahmanpn@gmail.com</h4>
 
 <img align='right' height='160' style="margin-right:20px" src='assets/zeig-infotech-seo-gif.gif' alt='Social Networks'>
 <br>
