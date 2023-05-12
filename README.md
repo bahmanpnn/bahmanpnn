@@ -10,7 +10,7 @@
 
 <h3>👀 I’m currently learning Advanced Django items.I will be happy to get in touch and talk about developing; specially fields that i am active in!</h3>
 
-🌐[my portfolio site](http://bahmanpn.pythonanywhere.com)
+🌐[my site](http://bahmanpn.pythonanywhere.com)
 
 <h4>📫 bahmanpn@gmail.com</h4>
 
