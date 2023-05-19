@@ -8,7 +8,7 @@
 
 ### :man_technologist: I'm Bahman Pournazari and interested in Python,Django and web developing
 
-<h3>👀 I’m currently learning Advanced Django items.I will be happy to get in touch and talk about developing; specially fields that i am active in!</h3>
+<h3>👀 I’m currently learning Advanced Django topics.I will be happy to connecting with other developers and talk about developing; specially fields that i am active in!</h3>
 
 🌐[my site](http://bahmanpn.pythonanywhere.com)
 
