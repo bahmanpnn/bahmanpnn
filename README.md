@@ -2,7 +2,7 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=032b5e&vCenter=true&width=600&height=70&lines=Hi+I'M+Bahman+Pournazari;A+Backend+Developer;A+Django+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=032b5e&vCenter=true&width=600&height=70&lines=Hi+I'M+Bahman+Pournazari;A+Backend+Developer++|++Django;)](https://git.io/typing-svg)
 
  </div>
 
@@ -10,7 +10,7 @@
 
 <h3> I’m currently learning Advanced Django topics.I will be happy to connecting with other developers and talk about developing; specially fields that i am active in!</h3>
 
-🌐[my site](http://bahmanpn.pythonanywhere.com)
+🌐 [my site] (http://bahmanpn.pythonanywhere.com)
 
 <h4>📫 bahmanpn@gmail.com</h4>
 
