@@ -10,7 +10,7 @@
 
 <h3> I’m currently learning Advanced Django topics.I will be happy to connecting with other developers and talk about developing; specially fields that i am active in!</h3>
 
-🌐 [my site] (http://bahmanpn.pythonanywhere.com)
+🌐 [http://bahmanpn.pythonanywhere.com](http://bahmanpn.pythonanywhere.com)
 
 <h4>📫 bahmanpn@gmail.com</h4>
 
