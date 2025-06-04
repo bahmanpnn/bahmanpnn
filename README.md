@@ -38,12 +38,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,sqlite,postgres,mysql,git,github,html,css,bootstrap,js" />
+    <img src="https://skillicons.dev/icons?i=python,django,sqlite,postgres,mysql,git,github,html,css,bootstrap" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jquery,vuejs,postman,docker,redis" />
+    <img src="https://skillicons.dev/icons?i=js,jquery,vuejs,postman,docker,redis" />
   </a>
 </p>
 
