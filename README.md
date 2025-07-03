@@ -15,6 +15,10 @@
 <h4>📫 bahmanpn@gmail.com</h4>
 
 <img align='right' height='160' style="margin-right:20px" src='assets/zeig-infotech-seo-gif.gif' alt='Social Networks'>
+
+<br>
+<br>
+<br>
 <br>
 <h2>Social Networks</h2>
 
